@@ -1,8 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
   
-📬 Let's connect: [6767deepa@gmail.com](mailto:6767deepa@gmail.com)  
-
 ---
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
