@@ -12,7 +12,7 @@
 
 I’m actively seeking opportunities in the data-related field, particularly in data and analytics, where I can contribute and grow through impactful work that drives business success and improves data-driven decision-making.
 
-![GitHub Follow](https://github.com/Deepali949593?tab=followers)
+![GitHub Follow]
 ![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 📫 **How to reach me**
