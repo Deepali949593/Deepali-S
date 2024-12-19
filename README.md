@@ -9,19 +9,22 @@
 
 ---
 
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m actively seeking opportunities in the data-related field, particularly in data and analytics, where I can contribute and grow through impactful work that drives business success and improves data-driven decision-making.
+My name is Deepali, and I’m passionate about transforming data into actionable insights with a strong foundation in data analytics and web development. With skills in Python, SQL, Power BI, and more, I aim to contribute to impactful projects that drive business success and innovation.
 
-![GitHub Follow]
-![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+I'm actively seeking opportunities in data analytics, visualization, and web development where I can grow and make a meaningful impact.
 
-📫 **How to reach me**
+![GitHub Follow](https://img.shields.io/github/followers/Deepali949593.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/Deepali949593?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/elmoallistair) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elmoallistair)
-[![G-Mail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:6767deepali@gmail.com)
+📫 **How to reach me**  
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/deepali-s-273997238)  
+[![G-Mail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:6767deepali@gmail.com)  
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=elmoallistair&show_icons=true&theme=nord" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepali949593&show_icons=true&theme=nord" width="400px">
 </details>
+
