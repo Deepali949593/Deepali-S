@@ -1,6 +1,15 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Elmo, and I’m passionate about using data to find insights and practical solutions, with experience in both data analysis and engineering. I enjoy creating streamlined data processes that make decision-making easier and more informed, enhancing operational efficiency through automation and cloud technologies.
+👋 Hi, I'm Deepali!  
+🎓 MSc Computer Science | Data Analyst Enthusiast  
+💻 Skilled in Python, SQL, Power BI, and Web Development  
+📊 Passionate about transforming data into actionable insights  
+🌱 Currently exploring advanced analytics and visualization tools  
+📬 Let's connect: [6767deepa@gmail.com](mailto:6767deepa@gmail.com)  
+
+---
+
+Let me know if you'd like any modifications! 😊
 
 I’m actively seeking opportunities in the data-related field, particularly in analytics and engineering, where I can contribute and grow through impactful work that drives business success and improves data-driven decision-making.
 
