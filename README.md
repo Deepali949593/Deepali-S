@@ -13,7 +13,8 @@
 
 📫 **How to reach me**  
 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/deepali-s-273997238)  [![G-Mail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:6767deepali@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/deepali-s-273997238)  [![G-Mail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:6767deepali@gmail.com)  [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/Deepali_S02)
+
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
