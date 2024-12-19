@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋 Hi, I'm Deepali!  
+😊 Hi, I'm Deepali!  
 🎓 MSc Computer Science | Data Analyst Enthusiast  
 💻 Skilled in Python, SQL, Power BI, and Web Development  
 📊 Passionate about transforming data into actionable insights  
@@ -9,11 +9,10 @@
 
 ---
 
-Let me know if you'd like any modifications! 😊
 
-I’m actively seeking opportunities in the data-related field, particularly in analytics and engineering, where I can contribute and grow through impactful work that drives business success and improves data-driven decision-making.
+I’m actively seeking opportunities in the data-related field, particularly in data and analytics, where I can contribute and grow through impactful work that drives business success and improves data-driven decision-making.
 
-![GitHub Follow](https://img.shields.io/github/followers/elmoallistair.svg?style=social&label=Follow)
+![GitHub Follow](https://github.com/Deepali949593?tab=followers)
 ![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 📫 **How to reach me**
