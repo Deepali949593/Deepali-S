@@ -1,5 +1,4 @@
-
-## Hi there <img src="https://raw.githubusercontent.com/Deepali949593/Deepali949593/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
 😊 Hi, I'm Deepali!  
 🎓 MSc Computer Science | Data Analyst Enthusiast  
